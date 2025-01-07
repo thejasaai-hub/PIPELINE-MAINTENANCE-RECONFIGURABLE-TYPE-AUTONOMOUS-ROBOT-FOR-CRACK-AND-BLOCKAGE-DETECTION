@@ -39,3 +39,41 @@ wheels or other moving parts, providing efficient motor control.
 Minute). They provide the mechanical movement necessary for the project, such as
 driving wheels or other locomotion mechanisms in a robot.
 
+## DESCRIPTION
+The field of robotics has seen significant advancements, especially in
+industries like manufacturing, where robots are deployed for various tasks, such as
+welding and painting, improving safety and efficiency. Pipelines serve as vital
+infrastructure for fluid transportation, requiring regular inspection to detect cracks
+and blockages. However, inspecting pipelines can be challenging, especially in
+remote or inaccessible areas. To address this challenge, a joystick-controlled pipeline
+inspection robot equipped with an HC-12 module has been developed. Unlike
+autonomous systems, this robot relies on human control via a joystick and focuses
+solely on detecting cracks and blockages within the pipeline. Moreover, the compact
+and agile nature of the robot enables it to navigate through tight spaces and intricate
+pipeline networks with ease. This versatility allows for comprehensive inspection
+coverage, even in challenging environments where access may be limited or
+obstructed.
+The joystick-controlled pipeline inspection robot offers a cost-effective and
+efficient solution for pipeline inspection. By utilizing a joystick interface,
+operators can precisely maneuver the robot through the pipeline, allowing for
+targeted inspection of potential problem areas. The inclusion of the HC-12 module
+enables wireless communication between the robot and the control station, providing
+real-time feedback to the operator with a range of 1000 meters. Traditional methods
+of pipeline inspection often involve manual inspection or costly equipment.
+However, these methods can be time-consuming and pose safety risks to workers. In
+contrast, our joystick-controlled robot eliminates the need for human entry into
+hazardous environments, enhancing safety and reducing operational costs.
+Furthermore, the primary focus of this robot is on detecting cracks and
+blockages within the pipeline. By employing sensors and imaging systems, the robot
+can accurately identify potential issues, allowing for prompt maintenance and
+preventing potential leaks or accidents.
+
+In summary, the joystick-controlled pipeline inspection robot offers a
+versatile and efficient solution for pipeline maintenance. By combining human
+control with advanced technology, such as the HC-12 module, this robot streamlines
+the inspection process, ensuring the integrity and safety of the pipeline infrastructure.
+Overall, the joystick-controlled pipeline inspection robot represents a
+significant advancement in pipeline maintenance technology. Its combination of
+human control, wireless communication capabilities, and focus on crack and
+blockage detection make it a valuable asset for ensuring the reliability and safety of
+critical pipeline infrastructure.
